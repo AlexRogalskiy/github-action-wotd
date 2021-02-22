@@ -55,4 +55,4 @@ runs:
 # Ref: https://haya14busa.github.io/github-action-brandings/
 branding:
   icon: 'image'
-  color: 'gray-dark'
+  color: 'green'
