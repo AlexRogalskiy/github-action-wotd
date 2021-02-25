@@ -43,7 +43,7 @@
       * [<em>Table of contents</em>](#table-of-contents)
       * [<em>Description</em>](#description)
       * [<em>Inputs</em>](#inputs)
-         * [category](#category)
+         * [Language](#language)
          * [pattern](#pattern)
          * [width](#width)
          * [height](#height)
