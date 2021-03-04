@@ -55,7 +55,7 @@
          * [colorPattern](#colorpattern)
          * [name](#name)
          * [path](#path)
-      * [<em>Outputs</em>`](#outputs)
+      * [<em>Outputs</em>](#outputs)
          * [image](#image)
       * [<em>Examples</em>](#examples)
       * [<em>Visitor stats</em>](#visitor-stats)
